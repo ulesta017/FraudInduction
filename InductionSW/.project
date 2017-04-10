@@ -26,7 +26,7 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
-			<location>/Users/ulesta/Documents/workspace-ggts-3.6.4.RELEASE/InductionSW/target/work/plugins</location>
+			<location>/Users/ulesta/Documents/FraudInduction/InductionSW/target/work/plugins</location>
 		</link>
 	</linkedResources>
 </projectDescription>

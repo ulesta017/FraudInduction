@@ -4,9 +4,7 @@ import grails.converters.JSON
 
 class PlanetController {
 	
-	def memcachedService
 	def planetService
-	def scaffold = Planet
 
     def index() {
 		
